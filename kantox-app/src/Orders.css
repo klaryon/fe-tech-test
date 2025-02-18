@@ -1,0 +1,30 @@
+.table-container {
+    display: flex;
+    justify-content: center;
+}
+
+.order-table {
+    border-collapse: collapse;
+}
+
+.currency {
+    text-align: right;
+}
+
+.order-table th {
+    text-align: left;
+    background-color: lightgrey;
+}
+
+.order-table th,
+.order-table td {
+    padding: 0.7rem;
+}
+
+.order-row {
+    transition: background-color 0.2s;
+}
+
+.order-row:hover {
+    background-color: #eee;
+}

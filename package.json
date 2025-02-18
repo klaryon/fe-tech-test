@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/kantox/fe-tech-test/issues"
   },
-  "homepage": "https://github.com/kantox/fe-tech-test#readme"
+  "homepage": "https://github.com/kantox/fe-tech-test#readme",
+  "dependencies": {
+    "date-fns": "^4.1.0"
+  }
 }
